@@ -1,0 +1,14 @@
+.box {
+    height: 8em;
+    width: 8em;
+    background-color: lightsalmon;
+    display: inline-block;
+    margin: 1em;
+}
+.button {
+    display: block;
+}
+.box:hover {
+    background-color: lightgreen;
+    text-align: center;
+}
